@@ -1,4 +1,4 @@
-public class Hidangan {
+public class Hidangan 
     protected String namaHidangan;
     public String getNamaHidangan(){
         return namaHidangan;
